@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiril-vandzsurak&label=Profile%20views&color=0e75b6&style=flat" alt="kiril-vandzsurak" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development course**
+- 🌱 Epicode bootcamp graduate in field of **Full-Stack Web Development course**
 
 - 💬 Ask me about **Front-End, Back-End, Full-Stack**
 
